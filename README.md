@@ -13,7 +13,7 @@ Currenly missing from the cheat sheet, or just things I would like to add but di
 - In Linear Regression: Risk -> Quadratic Risk.
 - Mention the name "Mean Square Error" where it is defined or used.
 - Quantiles estimator in M-Estimation.
-- How to QQ plot with $( \_\_  ,X_i)$.
+- How to QQ plot with $( \_ ,X_i)$.
 - Specify that the $n$ choose $k$ is without replacement and add the formula with replacement.
 - More notes on confidence intervals.
 - EM algorithm and MLE for gaussian mixture. (probably better for the Part 2.)
